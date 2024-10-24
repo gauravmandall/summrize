@@ -1,0 +1,10 @@
+{
+  "name": "Summrize",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Summrize",
+    "default_icon": "icon.svg",
+    "default_popup": "index.html"
+  }
+}
