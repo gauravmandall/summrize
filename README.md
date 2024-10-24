@@ -1,6 +1,6 @@
 # Summrize App 📚✨
 
-![Summrize Logo For Light](https://github.com/Gauravmandall/summrize/assets/111555846/f9357daf-df38-446c-afaa-8168a652fff9)<svg width="173" height="174" viewBox="0 0 173 174" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- ![Summrize Logo For Light](https://github.com/gauravmandall/summrize/assets/111555846/f9357daf)<svg width="173" height="174" viewBox="0 0 173 174" fill="none" xmlns="http://www.w3.org/2000/svg"> -->
 <g clip-path="url(#clip0_109_21)">
 <path d="M148.4 126.6L162 113M10 65L39.1 36M64 10V11M112 163L111.4 162.6M11.2 113.8L11.4 113.6M30.7 144.2L58.4 116.6M38.4 86.6L112.7 12.2M61.7 163.2L162.2 62.7M85.4 89.6L143.2 31.8" stroke="#18181B" stroke-width="20" stroke-miterlimit="3" stroke-linecap="round"/>
 </g>
@@ -11,7 +11,7 @@
 </defs>
 </svg>
 
-![Summrize Logo For Dark](https://github.com/Gauravmandall/summrize/assets/111555846/c2f2a7c7-e931-417c-99dc-5a98a0843112)<svg width="173" height="174" viewBox="0 0 173 174" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- ![Summrize Logo For Dark](https://github.com/gauravmandall/summrize/assets/111555846/c2f21-99dc-5a98a0843112)<svg width="173" height="174" viewBox="0 0 173 174" fill="none" xmlns="http://www.w3.org/2000/svg"> -->
 <g clip-path="url(#clip0_109_21)">
 <path d="M148.4 126.6L162 113M10 65L39.1 36M64 10V11M112 163L111.4 162.6M11.2 113.8L11.4 113.6M30.7 144.2L58.4 116.6M38.4 86.6L112.7 12.2M61.7 163.2L162.2 62.7M85.4 89.6L143.2 31.8" stroke="white" stroke-width="20" stroke-miterlimit="3" stroke-linecap="round"/>
 </g>
@@ -30,12 +30,12 @@ Summrize is a web app that provides text summarization and translation services.
 - **Text Translation:** Translate text between different languages.
 - **Browser Extension:** Easily access Summrize features directly from your browser.
 
-## Screenshots
+<!-- ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/Gauravmandall/summrize/assets/111555846/07111893-599f-494d-b0b9-d79d4a0d650d" alt="Screenshot 1" width="100%"/>
-  <img src="https://github.com/Gauravmandall/summrize/assets/111555846/2861272b-b5a0-40a3-84fa-46e9d01f5884" alt="Screenshot 2" width="100%"/>
-</div>
+  <img src="https://github.com/gauravmandall/summrize/assets/111555846/07111893-494d-b0b9-d79d4a0d650d" alt="Screenshot 1" width="100%"/>
+  <img src="https://github.com/gauravmandall/summrize/assets/111555846/2861272b-40a3-84fa-46e9d01f5884" alt="Screenshot 2" width="100%"/>
+</div> -->
 
 ## Getting Started
 
